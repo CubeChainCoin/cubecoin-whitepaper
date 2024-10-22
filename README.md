@@ -1,53 +1,46 @@
-# CubeCoin White Paper
+# CC Blockchain White Paper
 
-## 1. Project Overview
+## Abstract
+CC Blockchain aims to revolutionize the cryptocurrency landscape by addressing the persistent issues of high transaction fees and security vulnerabilities. Utilizing the Geth framework and a Proof of Authority (PoA) consensus algorithm, CC Blockchain offers a reliable and efficient platform focused solely on its native currency, CC, without the complexities of smart contracts.
 
-### Problem Statement
-CubeCoin was created in the Kaleido environment, aiming to solve the issues of high transaction fees and slow processing times that plague many existing blockchain solutions. 
+## Introduction
+As blockchain technology evolves, users often face high fees and security concerns. CC Blockchain is designed to tackle these challenges head-on, providing a streamlined and secure payment system tailored for real-world applications. By focusing on CC as the sole currency, the platform aims to simplify transactions and enhance user experience.
 
-### Solution
-CubeCoin addresses these challenges by enabling fast transactions with minimal fees, fostering a more economically viable blockchain experience.
+## Problem Statement
+### High Transaction Fees
+Many existing blockchains impose significant fees on transactions, making them less accessible for everyday users, particularly for small-value transactions. 
 
-## 2. Vision and Mission
+### Security Vulnerabilities
+With increasing incidents of hacks and fraud, ensuring a secure environment for transactions is paramount. CC Blockchain leverages a PoA consensus to maintain a secure network where only trusted validators can create new blocks.
 
-### Vision
-CubeCoin envisions a big, safe, secure, and economically efficient blockchain, complemented by a thriving community.
-
-### Mission
-CubeCoin is driven by the following core principles:
-- **Small Fees**: Ensuring transactions are cost-effective.
-- **Secure Blockchain**: Providing a robust and reliable blockchain infrastructure.
-- **Anti-Fraud Measures**: Maintaining security without relying on smart contracts, despite being EVM-compatible.
-- **Closed Source**: CubeCoin operates as a closed-source project to protect its intellectual property and enhance security.
-
-## 3. Technical Details
-
-### Blockchain Framework
-CubeCoin is built on the Geth framework.
+## Technology Overview
+### Framework
+CC Blockchain is built on the Geth framework, known for its performance and reliability. This choice allows for rapid development and deployment, ensuring the platform can evolve with user needs.
 
 ### Consensus Mechanism
-The consensus mechanism employed by CubeCoin is Proof of Authority (PoA).
+The network operates on a Proof of Authority (PoA) algorithm, which allows for:
+- **Faster Transaction Times**: Transactions are validated quickly due to a limited number of trusted validators.
+- **Enhanced Security**: Only authorized nodes can validate transactions, reducing the risk of malicious activity.
 
-### Scalability and Security
-CubeCoin ensures security through its nodes and utilizes the Kaleido blockchain as a service platform, enhancing its reliability and performance.
+## Use Cases
+1. **Payments**: Facilitate low-cost, fast transactions for users and businesses, supporting both online and in-person transactions.
+2. **Supply Chain**: Improve transparency and traceability in supply chain operations, allowing stakeholders to verify the authenticity of products.
 
-## 4. Tokenomics
-CubeCoin does not have a native token. 
+## Currency Overview
+- **Total Supply**: 80 million CC.
+- **Regeneration**: CC will regenerate every three years to maintain liquidity and incentivize network participation.
+- **Utility**: CC is used for transaction fees, promoting a low-cost ecosystem for users.
 
-## 5. Roadmap
-- **Launch of the First Node**: October 10, 2024
-- **First Transaction**: October 11, 2024
+## Roadmap
+- **10/10/2024**: Project Launch
+- **15/10/2024**: First Transaction
+- **18/10/2024**: Launch of our blockchain explorer, Ethernal, and listing on Blockscout.
+- **Q1 2025**: Expand partnerships with payment processors to enhance user adoption.
+- **Q3 2025**: Implement a community governance model to engage users in decision-making.
+- **End of 2024**: CC will be listed in a trading pool, allowing users to trade and increase liquidity.
 
-## 6. Use Cases
-CubeCoin offers small fees and secure anti-fraud capabilities, making it an attractive option for users and businesses looking for efficient blockchain solutions.
+## Vision
+CC Blockchain aspires to create a user-friendly and secure payment ecosystem that reduces costs and enhances trust in digital transactions. By focusing exclusively on CC as the main currency, the platform aims to simplify the user experience and foster widespread adoption. Our vision includes a future where digital currencies are seamlessly integrated into everyday transactions, accessible to all.
 
-## 7. Team
-- **Akram Trad**: CEO and Main Developer
-- **Zakaria Dabii**: Developer
-- **Kevin West**: Community Manager
-
-## 8. Legal & Regulatory Information
-CubeCoin operates as an ethical blockchain, ensuring compliance with relevant laws and regulations.
-
-## 9. Conclusion
-CubeCoin aims to make crypto transactions cheap, fast, and, of course, secure. We invite users and investors to join us in revolutionizing the blockchain space.
+## Conclusion
+CC Blockchain is committed to solving the pressing issues of high fees and security in the blockchain space. With a clear vision and a robust technological foundation, we invite users and developers to join us in building a more accessible and secure digital economy. Together, we can transform how transactions are conducted globally, making blockchain technology a fundamental part of daily life.
